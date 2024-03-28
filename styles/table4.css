@@ -1,9 +1,4 @@
-html, body {
-    margin: 1em;
-    height: 100%;
-    font-size: 100%;
-    }
-    * {
+* {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     }
     table.first {
