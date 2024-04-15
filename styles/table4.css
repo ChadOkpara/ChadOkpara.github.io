@@ -33,7 +33,7 @@ table.third {
     border-bottom: 2px solid orange;
     caption-side: bottom;
 }
-table.third th{
+table.third th {
     background-color: lightgreen;
     border-top: 2px solid orange;
     border-bottom: 2px solid orange;
